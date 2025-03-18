@@ -33,7 +33,7 @@ body {
 .overlay {
     width: 800px;
     height: 800px;
-    background: url('assets/your-custom-card.jpg') no-repeat center/cover;
+    background: url('your-custom-card.jpg') no-repeat center/cover;
     position: absolute;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
